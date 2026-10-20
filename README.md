@@ -68,5 +68,4 @@ Kümeleme bölümünde silhouette sonuçları arasında `k=2` için yaklaşık *
 
 [Muhammet Ali Bayrak](https://github.com/MuhammetAliBayrak61)
 
----
-**Durum:** Notebook tabanlı makine öğrenmesi ve kümeleme analizi. Ayrı bir web uygulaması veya API bulunmuyor.
+
